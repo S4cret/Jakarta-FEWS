@@ -5,11 +5,11 @@ Step-by-step Guide:
 2. Open command prompt and make sure to change directories until you are inside the mvp directory
 3. Run this command "steamlit run app_streamlit.py" to start the website
 4. Follow the instructions according to the website
-      a) "flood_classifie.joblib" can be found in the models folder, just drag & drop the file into the available upload slot
-      b) "flood_depth_regressor" can be found in the models folder, just drag & drop the file into the available upload slot
-      c) "jakarta_flood_combined" can be found in the dataset folder, just drag & drop the file into the available upload slot
-      **NOTE: The data used in this website is purely a dummy dataset so the results aren't accurate! If you wish the data to be accurate you must unfortunately create/find your own dataset D:
-**
+      > "flood_classifie.joblib" can be found in the models folder, just drag & drop the file into the available upload slot
+      >  "flood_depth_regressor" can be found in the models folder, just drag & drop the file into the available upload slot
+      > "jakarta_flood_combined" can be found in the dataset folder, just drag & drop the file into the available upload slot
+      **NOTE: The data used in this website is purely a dummy dataset so the results aren't accurate! If you wish the data to be accurate you must unfortunately create/find your own dataset D:**
+      
 The website is composed of 3 main features
 1. Prediction
 2. Flood History
