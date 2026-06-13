@@ -1,4 +1,4 @@
-Jakarta FEWS(Flood Early Warning System) is a website created with the intention of predicting floods up to 6 hours before the occurance!
+Jakarta FEWS(Flood Early Warning System) is a website using a predictive AI model created with the intention of predicting floods up to 6 hours before the occurance!
 
 Step-by-step Guide:
 1. Make a folder on your local device and put all the elements from this repository inside it
